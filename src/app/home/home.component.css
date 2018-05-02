@@ -1,0 +1,72 @@
+
+.logo {
+    width:100px;
+    height:80px;
+}
+
+.search-bar {
+
+    margin-top: 6em;
+    padding: 2em;
+    background-color: cadetblue;
+}
+
+/* Angular Material Styles */
+
+.example-form {
+    min-width: 100px;
+    max-width: 300px;
+    width: 100%;
+}
+  
+   .example-full-width {
+     margin-top: 2em;
+  } 
+  .input {
+
+    background-color: aliceblue;
+    padding: 1em;
+    color:black;
+    font-size: 14px;
+    border-radius: 4px;
+  }
+
+  mat-form-field {
+
+    color: black;
+    margin-right: 40px;
+  }
+  .formm {
+
+display: inline;
+padding-right: 20px;
+/* grid-template-columns: 30% auto;
+grid-gap: 3em; */
+
+
+  }
+  #searchbox {
+    padding: .7em;
+    font-size: 18px;
+    border-right: 15px;
+    border-radius: 6px;
+  }
+  .select {
+    padding: .7em;
+    font-size: 18px;
+    border-right:15;
+    border-radius: 6px;
+  }
+  .selector {
+      margin-bottom: 1em;
+  }
+  .searchButton {
+    color:whitesmoke;
+    background: burlywood;
+      padding:.7em;
+      border-right: 15px;
+      font-size: 18px;
+      border-radius: 4px;
+      border:none;
+  }
+  
